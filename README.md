@@ -6,7 +6,9 @@ Logistic-Regression  Applied logistic regression on bank dataset to check whethe
 Input variables: 
 
 Bank client data: 1 - Age (numeric) 
+
 2 - job : Type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student", "blue-collar","self-employed","retired","technician","services")
+
 3 - marital : marital status (categorical: "married","divorced","single"; note: "divorced" means divorced or widowed) 
 4 - education (categorical: "unknown","secondary","primary","tertiary")
 5 - default: has credit in default? (binary: "yes","no")
